@@ -3,7 +3,7 @@
 ![1544118575312](https://wegobond.com/wp-content/uploads/2018/06/northern-lights-1250561_960_720.jpg)
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me: 👋
-<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;"> -->
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedeklhateeb01&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelkhateeb01" /> </p>
 ### ⚓Hey devs👨‍💻: 👋
 👨🏼‍💻I'm Senior Mobile Application Developer.
