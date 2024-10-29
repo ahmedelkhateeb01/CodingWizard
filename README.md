@@ -16,7 +16,7 @@
 📌Finnlay  I love  Clean and unique Code.
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedelkhateeb01" alt="ahmedelkhateeb01" /></a> </p>
 
- ```kotlin
+kotlin
 object ahmmed {
  val name = "ahmed elkhateeb"
  val acknowledgements = "Developer"
@@ -24,7 +24,7 @@ object ahmmed {
  val primarySkillset = "Android Development"
  val languages = listOf("Kotlin", "Java", "Python", "JavaScript", "Go", "C++")
 }
-```
+
 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> ⚓My Courses: 👋
