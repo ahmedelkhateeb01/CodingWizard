@@ -15,7 +15,7 @@
 📌I choose Mobile Application development because it's a unique section and  I can innovate on it.
 📌Finnlay  I love  Clean and unique Code.
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedelkhateeb01" alt="ahmedelkhateeb01" /></a> </p>
-<!--
+
  ```kotlin
 object ahmmed {
  val name = "ahmed elkhateeb"
@@ -25,7 +25,7 @@ object ahmmed {
  val languages = listOf("Kotlin", "Java", "Python", "JavaScript", "Go", "C++")
 }
 ```
--->
+
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> ⚓My Courses: 👋
 <div align="center">
@@ -48,7 +48,7 @@ object ahmmed {
   </a>
 </p>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
-<!--
+
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -63,7 +63,7 @@ object ahmmed {
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
--->
+
 </div>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> ⚓Contacts Me:👋
@@ -100,7 +100,7 @@ object ahmmed {
 |   [ktor-sample](https://github.com/mohamedtamer0/ktor-sample)  |  **Kotlin** |
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
  
- <!--
+
  ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Projects : Android Apps
  
 |       **Repo**            |   **Language** |       **Repo**            |   **Language** |
@@ -131,7 +131,7 @@ object ahmmed {
 |   [NotesApp-Java](https://github.com/mohamedtamer0/NotesApp-Java)  |  **Java** |     |  **Kotlin** |
 |   [IToDo](https://github.com/mohamedtamer0/IToDo)  |  **Java** |     |  **Kotlin** |
 |   [Movies App](https://github.com/mohamedtamer0/Movies)  |  **Kotlin** |    |  **Kotlin** |
--->
+
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">⚓Support: 👋
 <p><a href="https://www.buymeacoffee.com/ahmedelkhab"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ahmed Elkhateeb" /></a></p><br><br>
 <br>
@@ -144,19 +144,19 @@ object ahmmed {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedelkhateeb01&show_icons=true&theme=onedark&line_height=27" alt="ahmedelkhateeb github stats"/>
 </a>
 </div>
-<!-- <div align="center">
+ <div align="center">
 <img src="https://media.giphy.com/media/l0NgQIwNvU9AUuaY0/source.gif" align="right" height=250 width=300>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 </div>
- -->
-<!-- <div align="center">
+
+<div align="center">
 <a href="https://github.com/mohamedtamer0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtamer0&theme=dracula&hide_langs_below=1" />
 </a>
 <a href="https://github.com/mohamedtamer0">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedtamer0&show_icons=true&theme=dracula&line_height=27" alt="Mohamed Tamer github stats"/>
 </a>
-</div> -->
+</div> 
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=800px height=95px>
 🏆✨Good luck Bro ✨👋: <br>
 🏆🏆✨Best Regards ✨👋👋<br>
